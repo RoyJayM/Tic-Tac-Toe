@@ -14,11 +14,13 @@
 
 **Wireframe**
 
+![image](https://github.com/RoyJayM/Tic-Tac-Toe/assets/97867989/d4ed8f94-5c5b-447c-b186-a0bd08050d89)
 
 
 
 **User Interface**
 
+![image](https://github.com/RoyJayM/Tic-Tac-Toe/assets/97867989/8e505d3e-f331-4e91-b7f6-6a40f137ef36)
 
 
 
