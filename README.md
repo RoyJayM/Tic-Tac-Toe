@@ -15,11 +15,11 @@
 **Wireframe**
 
 
-<img width="468" alt="image" src="https://github.com/RoyJayM/Tic-Tac-Toe/assets/97867989/53b5c7f4-fd34-462f-a3d6-1eaed765972c">
+
 
 **User Interface**
 
-<img width="468" alt="image" src="https://github.com/RoyJayM/Tic-Tac-Toe/assets/97867989/c531fd5e-913c-467b-86ad-152d3cbf695b">
+
 
 
 **User Stories : Must Haves**
