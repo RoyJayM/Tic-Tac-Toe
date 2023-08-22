@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+**Access the game on** : https://royjaym.github.io/Tic-Tac-Toe/ 
+
 **List of Features**
 - Pick a marker, either ‘X’ or ‘O’
 - The game will allow you to take turns between X and O
